@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/amythai/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/amythai/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/amythai/v1.0.0/",
-	"version" : "1",
+	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5906,7 +5906,7 @@
 			"md5": "8fcc02c46e18537591eb984c9b7d722a"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "9c6b5255668794d0117c06e1f3a36b88"
+			"md5": "8f149ff848bab2900a5534e5ac674b55"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "67182ae8146e99382ea2714130bfa96e"
@@ -5942,7 +5942,7 @@
 			"md5": "913c38c0de64e54b35230404def9328d"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "0ef5bec756449874df16497c119a5e69"
+			"md5": "e18ab37702f9a8eb96dbcd1972e4efd6"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "273880114c81760efaed38e8f85516b4"
