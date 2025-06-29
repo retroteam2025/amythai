@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/amythai/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/amythai/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/amythai/v1.0.0/",
-	"version" : "2",
+	"version" : "3",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5942,7 +5942,7 @@
 			"md5": "913c38c0de64e54b35230404def9328d"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "e18ab37702f9a8eb96dbcd1972e4efd6"
+			"md5": "c5edae20617ceb5cfec32c954b977e3a"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "273880114c81760efaed38e8f85516b4"
